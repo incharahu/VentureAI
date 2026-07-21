@@ -18,9 +18,10 @@ VentureAI is an AI-based startup networking and investment platform that connect
 - MySQL
 
 ## How to Run
-1. Install required packages
-2. Configure the database
-3. Run the application
+1. Install the required packages
+2. Configure the MySQL database
+3. Run the FastAPI application
+4. Open the application in your browser
 
 ## Author
 Inchara HU
